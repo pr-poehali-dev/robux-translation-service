@@ -8,7 +8,10 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="bg-white/20 rounded-lg p-2">
-                <span className="text-white font-bold text-lg">FUNPAY</span>
+                <span className="font-bold text-lg">
+                  <span className="text-blue-400">FUN</span>
+                  <span className="text-white">PAY</span>
+                </span>
               </div>
             </div>
             <p className="text-blue-100">

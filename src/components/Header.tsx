@@ -7,7 +7,10 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2">
           <div className="bg-white/20 rounded-lg p-2">
-            <span className="text-white font-bold text-xl">FUNPAY</span>
+            <span className="font-bold text-xl">
+              <span className="text-blue-400">FUN</span>
+              <span className="text-white">PAY</span>
+            </span>
           </div>
         </Link>
 

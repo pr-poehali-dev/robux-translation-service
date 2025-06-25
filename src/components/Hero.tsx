@@ -16,7 +16,8 @@ const Hero = () => {
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
             Перевод Робуксов
             <br />
-            <span className="text-blue-200">FUNPAY</span>
+            <span className="text-blue-400">FUN</span>
+            <span className="text-white">PAY</span>
           </h1>
 
           <p className="text-xl text-blue-100 mb-12 max-w-2xl mx-auto">

@@ -39,7 +39,10 @@ const Auth = () => {
         <div className="text-center mb-8">
           <Link to="/" className="inline-block">
             <div className="bg-white/20 rounded-lg p-3 mb-4">
-              <span className="text-white font-bold text-2xl">FUNPAY</span>
+              <span className="font-bold text-2xl">
+                <span className="text-blue-400">FUN</span>
+                <span className="text-white">PAY</span>
+              </span>
             </div>
           </Link>
           <h1 className="text-2xl font-bold text-white">Авторизация</h1>
